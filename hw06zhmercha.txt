@@ -1,0 +1,12 @@
+C343 Summer 2019
+Homework 6
+Zain Merchant 
+zhmercha
+
+TASK B
+TIME COMPLEXITY ANALYSIS
+The floodFill() method has a time complexity of O(n^2). This is because:
+a) the method runs for the size of the floodList linked list which is n
+b) in every if statement, there is a condition "contains" which has to go through the linked list to check if an element is present in it or not, and the size of the list is n, hence it runs 4n times. 
+Because the if statement is inside the while loop, n and 4n are multiplied so we get n^2 (ignoring the constant).
+Therefore O(n^2).
