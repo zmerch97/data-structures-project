@@ -1,2 +1,3 @@
-# data-structures-project
-Implemented the game "Flood Fill" in java to demonstrate understanding of concepts taught in Data Structures course
+# Data Structures Project: Flood Fill
+
+Implemented the game "Flood Fill" in Java to demonstrate understanding of concepts object oriented programming, arrays, and linked lists taught in Data Structures course.
